@@ -63,6 +63,14 @@
             "profile": "https://source.unsplash.com/random",
             "status": "active",
             "role": "owner"
+        },
+        {
+            "id": 9,
+            "name": "Sunday",
+            "email": "Sunday@gmail.com",
+            "profile": "https://source.unsplash.com/random",
+            "status": "active",
+            "role": "member"
         }
     ]
 }
