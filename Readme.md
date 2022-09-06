@@ -1,6 +1,6 @@
 # Getting Started
 
-This is the backend REST API for the web app I built, click the link [json-server](https://ifeanyi-react-jsonserver.netlify.app) to view it.
+This is the backend REST API for the web app I built. Click the link [json-server](https://ifeanyi-react-jsonserver.netlify.app) to view it.
 
 ## Deploy
 
